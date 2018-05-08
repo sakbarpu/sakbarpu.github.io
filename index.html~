@@ -19,7 +19,7 @@
 				<h3>About me</h3>			
 				<div id="main-image"><img src="shayan_main.jpg
 " width="220" height="300" /></div>
-					<ul style="margin-top:30px;margin-right:20em;margin-left:20em;text-indent:0">
+					<ul style="margin-top:30px;margin-right:20em;margin-left:25em;text-indent:0">
 					<li>My name is Shayan Ali Akbar. I am a PhD candidate in the 
 					<a href="https://engineering.purdue.edu/ECE">ECE department at Purdue University</a>.</li>
 					<li>I work in <a href="https://engineering.purdue.edu/RVL"> Robot Vision Lab (RVL)</a> with my academic advisor <a href="https://engineering.purdue.edu/kak/">Prof. Avinash Kak</a>. (I am fortunate!)
@@ -37,8 +37,8 @@
 				<p>For details please refer to my <a href="resume.pdf">resume</a>.</p>
 			</div>
 			<div>
-        		<h1>What you will find on this webpage</h1>
-					<ul style="margin-top:30px;margin-right:20em;margin-left:20em;text-indent:0">
+        		<h1>On this page you will find</h1>
+					<ul style="margin-top:30px;margin-right:20em;margin-left:25em;text-indent:0">
 						
 					<li>Details about the <a href="Projects.html">projects</a> I have worked on over the past few years</li>
 					<li>A list of my <a href="Publications.html">publications</a> </li>
