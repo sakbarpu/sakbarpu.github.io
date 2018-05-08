@@ -30,15 +30,6 @@
 					</ul>
 			</div>
 			<div>
-        		<h1>My research interests</h1>
-					<li>Machine learning</li><p></p>
-					<li>Software engineering</li><p></p>
-					<li>Information retrieval</li><p></p>
-					<li>Computer vision</li><p></p>
-					<li>High performance computing</li><p></p>
-				<p>For details please refer to my <a href="resume.pdf">resume</a>.</p>
-			</div>
-			<div>
         		<h1>On this page you will find</h1>
 					<ul style="margin-top:30px;margin-right:20em;margin-left:28em;text-indent:0">
 						
@@ -51,6 +42,20 @@
 					</ul>
 			</div>
 		</div>
+			<div>
+        		<h1>My research interests</h1>
+
+					<ul style="margin-top:30px;margin-right:20em;margin-left:28em;text-indent:0">
+					<li>Machine learning</li><p></p>
+					<li>Software engineering</li><p></p>
+					<li>Information retrieval</li><p></p>
+					<li>Computer vision</li><p></p>
+					<li>High performance computing</li><p></p>
+					</ul>
+				<p>For details please refer to my <a href="resume.pdf">resume</a>.</p>
+			</div>
+
+
 		<div id="right-column">
 			<h3>Find Me Elsewhere</h3>
 			<div class="box">
