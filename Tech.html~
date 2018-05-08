@@ -22,7 +22,7 @@
 					<div>
 						<h1>Machine Learning Methods</h1>
 						<ul style="margin-top:10px;margin-left=50">
-							<li>Wouldn't it be cool if you could have all relevant information about traditional machine learning models in one page?</li>
+							<li>Wouldn't it be cool if you could have <b>ALL RELEVANT INFORMATION about TRADITIONAL MACHINE LEARNING models in one page?</b></li>
 							<li>I have created a <a href="summaryPredModels">table</a> which compiles high level details of some traditional machine learning models.</li>
 							<li>Specifically the table discusses different <b>classification and clustering models</b>.</li>
 							<li>For each model I discuss many feartures like the <b>model space, search function and score function</b>. </li>
