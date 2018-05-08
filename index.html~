@@ -59,8 +59,10 @@
 		<div id="right-column">
 			<h3>Find Me Elsewhere</h3>
 			<div class="box">
+				<ul style="margin-top:30px;margin-right:20em;margin-left:28em;text-indent:0">
 					<li><a href="http://facebook.com/shayan.akbar" target="_blank">Facebook</a></li>
 					<li><a href="https://www.linkedin.com/in/shayan-ali-akbar-22773335/" target="_blank">LinkedIn</a></li>
+				</ul>
 			</div>
 		</div>
 	</div>
