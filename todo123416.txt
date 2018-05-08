@@ -1,0 +1,4 @@
+bug localization project page.
+yelp review code.
+clustering on mnist code.
+complete slide on machine learning methods and put in tech stuff.

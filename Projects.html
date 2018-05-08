@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shayan's Webpage</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="wrapper">
+    
+<div class="dropdown">
+  <button class="dropbtn">Menu</button>
+  <div class="dropdown-content"><a href="index.html">Home</a> | <a href="Projects.html">Projects</a> | <a href="Publications.html">Publications</a> | <a href="Personal.html">My Photos</a> | <a href="Tech.html">Tech Stuff</a></div>
+		<div id="bg"></div>
+	</div>
+	<div id="main-content">
+		<div id="left-column">
+			<div id="logo">
+			Shayan's Webpage
+			</div>
+			<div class="sidebar">
+				<h3>Projects</h3>
+					<div>
+						<h1>Automatic Bug Localization</h1>
+						<ul style="margin-top:10px;margin-left=50">
+							<li>The goal in automatic bug localization is to find bugs in a code base.</li>
+							<li>I use <b>Information Retrieval (IR)</b> techniques to build a software search engine. </li>
+							<li>An IR based bug localization system finds ranked list of relevant source code files.</li>
+							<li>The traditional way to do bug localization research is by using what's famously called a <b>Bag-of-Words (BOW)</b> approach. </li>
+							<li>In a BOW approach only the frequencies of terms appearing in bug reports and source code files are considered in the model.</li>
+							<li>And the position and ordering of words or terms have no meaning.</li>
+							<li>This is a problem since words in any language, be it programming language or natural language, have contexts.</li>
+							<li>Therefore, a term-term dependency model is needed which imposes positional and ordering constraints.</li>
+							<li>I use <b><a href="https://en.wikipedia.org/wiki/Markov_random_field">Markov Random Field (MRF)</a></b> based approach to enforce position and ordering constraints in IR model.</li>
+							<li>If you are interested in knowing how MRF can be used to build a search engine, you will enjoy reading our 
+							<b><a href="https://engineering.purdue.edu/RVL/Publications/SismanAkbarKak_2016.pdf"> MRF paper</a></b>.
+							<li>For datasets you can refer to the <a href="https://engineering.purdue.edu/RVL/Database/BUGLinks/">BUGLinks</a> dataset 
+							or <a href="https://engineering.purdue.edu/RVL/Database/moreBugs/">moreBugs</a> dataset.</li>
+							<li>Source code for this project is in Java programming language.</li>
+						</ul>
+					</div>
+					<div>
+						<h1>3D Modeling of Dormant Fruit Trees</h1>
+						<ul style="margin-top:10px;">
+							<li>Creating a very accurate 3D model of fruit trees is a challenging task.</li>
+							<li>The ultimate goal of the project is to automate the process of <b>pruning fruit trees</b>.</li>
+							<li>For this <b>precision agriculture</b> task a 3D model of the tree is required to locate candidate branches to prune.</li>
+							<li>For details about this project please refer to the project 
+							<a href="https://engineering.purdue.edu/RVL/Research/USDA_Pruning/index.html">webpage here</a>. </li>
+							<li>If you want to play with <b>Kinect2 depth images</b> of indoor and outdoor dormant trees, you can download
+							the datasets <a href="https://engineering.purdue.edu/RVL/CVPRW_Dataset/">here</a>, 
+							<a href="https://engineering.purdue.edu/RVL/WACV_Dataset/">here</a>, and 
+							<a href="https://engineering.purdue.edu/RVL/ICRA_Dataset/"> here</a>. </li>
+							<li>If you use these datasets please give us credit by citing our works.</li>
+							<li>Collecting depth images of outdoor orchard trees was quite an experience! That too in snow! </li>
+							<li>Most of the source code is in MATLAB and C++.</li>
+						</ul>
+					</div>
+					<div>
+						<h1>Other short term projects</h1>
+						<ul style="margin-top:10px;">
+						<div>
+							<h1>Yelp Review Classification</h1>
+							<ul style="margin-top:10px;">
+								<li>The goal is to classify reviews as positive or negative.
+								<li>Following methods were implemented in Python and evaluated for the task </li>
+								<li><b>Decision Trees, Bagged Trees, Random Forest, Boosted Trees</li>
+								<li>Support Vector Machines, Logistic Regression, Naive Bayes</b></li>
+								<li>SVM seems to outperform all other models for this dataset.</li>
+								<li>Ensemble methods like Boosted Decision Trees and Random Forests are also very good.</li>
+								<li>Naive Bayes and Decision Trees do not perform very well.</li>
+								<li>Source code with dataset </li>
+							</ul>
+						</div>
+						<div>
+							<h1>MNIST classification using Deep Learning</h1>
+							<ul style="margin-top:10px;">
+								<li>Implemented <b>Convolutional Neural Network</b> for MNIST Classification in MATLAB.</li>
+								<li>Got 98% accuracy which is expected for MNIST classification using CNN.
+							</ul>
+						</div>
+						<div>
+							<h1>MNIST clustering</h1>
+							<ul style="margin-top:10px;">
+								<li>The goal is to cluster the digits.</li>
+								<li>Implemented <b>k-means clustering</b> in Python. 
+								<li>Also played with <b>sklearn's agglomerative clustering</b> methods.
+								<li>Source code with dataset </li>
+								
+							</ul>
+						</div>						
+						<div>
+							<h1>PCA vs LDA for face recognition</h1>
+							<ul style="margin-top:10px;">
+								<li>PCA and LDA implemented in MATLAB.
+								<li>LDA converges earlier than PCA.</li>
+								<li>FacePix dataset used for experimentation.</li>
+							</ul>
+						</div>
+						<div>
+							<h1>Camera calibration</h1>
+							<ul style="margin-top:10px;">
+								<li>Implemented <b>Zhang's algorithm</b> for finding intrinsic and extrinsic parameters.</li>
+							</ul>
+						</div>
+						<div>
+							<h1>SIFT, SURF, and Harris interest point detection</h1>
+							<ul style="margin-top:10px;">
+								<li>Implemented Harris corner detector.
+								<li>Used SIFT and SURF implementation of <b>OpenCV</b> in Python.</li>
+							</ul>
+						</div>
+						<div>
+							<h1>Traffic engineering in Software Defined Network</h1>
+							<ul style="margin-top:10px;">
+								<li>The goal is to route traffic using a max flow min distance algorithm.</li>
+							</ul>
+						</div>
+						</ul>
+					</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+</body>
+</html>
