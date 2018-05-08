@@ -17,8 +17,10 @@
 		<div id="left-column">
 			<div class="sidebar">
 				<h3>About me</h3>			
-				<div id="main-image"><img src="shayan_main.jpg
-" width="220" height="300" /></div>
+				<div id="main-image">
+					<ul style="margin-top:30px;margin-right:20em;margin-left:28em;text-indent:0">
+					<img src="shayan_main.jpg" width="220" height="300" />
+				</div>
 					<ul style="margin-top:30px;margin-right:20em;margin-left:28em;text-indent:0">
 					<li>My name is Shayan Ali Akbar. I am a PhD candidate in the 
 						<a href="https://engineering.purdue.edu/ECE">ECE department at Purdue University</a>.</li> <p></p> <p></p><p></p>
