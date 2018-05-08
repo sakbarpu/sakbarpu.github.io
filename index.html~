@@ -38,12 +38,15 @@
 			</div>
 			<div>
         		<h1>What you will find on this webpage</h1>
+					<ul style="margin-top:30px;margin-right:20em;margin-left:20em;text-indent:0">
+						
 					<li>Details about the <a href="Projects.html">projects</a> I have worked on over the past few years</li>
 					<li>A list of my <a href="Publications.html">publications</a> </li>
 					<li>Source code and datasets associated with some of the projects</li>
 					<li>Few of my <a href="Personal.html">pictures</a></li>
 					<li>Some cool <a href="Tech.html"> tech stuff</a></li>
 					<li>If you were in <a href="https://engineering.purdue.edu/kak/computervision/ECE661_Fall2016/index.php">ECE-661</a> Computer Vision Fall 2016 offering and looking for the course webpage, it's <a href="https://engineering.purdue.edu/kak/computervision/ECE661_Fall2016/index.php">here</a></li>
+					</ul>
 			</div>
 		</div>
 		<div id="right-column">
