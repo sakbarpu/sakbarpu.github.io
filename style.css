@@ -87,7 +87,7 @@ body {
 
 #left-column {
 	text-align:left;
-	text-indent:25%;
+	text-indent:5%;
 	margin-bottom:10px;
 }
 
@@ -152,24 +152,13 @@ h3 {
 	font:bold 14px Arial, Helvetica, sans-serif;
 	border-bottom:1px solid #efece7;
 }
-ul {
-        list-style-type: none;
-//	padding-left: 40px;
-//	list-style-position: outside;
-//       background-position: 0px 100%;
-}
 
-li {
-    background-image: square url('http://img525.imageshack.us/img525/1890/bulletr.gif');
-//    background-repeat: no-repeat;
-//    background-position: 0px 100%;
-//    padding-left: 10px;
-}
+
 
 .box {
 	background:#f7f7f7;
 	border:1px solid #f0e9eb;
-	padding:15px;
+	padding:10px;
 }
 
 #nav a {
