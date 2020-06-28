@@ -121,23 +121,23 @@ a:hover {
 
 h1 {
 	text-align:left;
-	text-indent:10%;
+	text-indent:0%;
 	color:#7a2e40;
 	margin:0px 0px 0px;
 	padding-bottom:10px;
-	font:normal 25px Georgia, serif;
+	font:normal 30px Georgia, serif;
 	border-bottom:1px solid #efece7;
 }
 
 h2 {
 	text-align:left;
-	text-indent:15%;
+	text-indent:0%;
 	color:#7a2e40;
 	margin:20px 0 10px;
 	margin-top:20px;
 	margin-bottom:10px;
 	padding-bottom:10px;
-	font:normal 17px Georgia, serif;
+	font:normal 20px Georgia, serif;
 	border-bottom:1px solid #efece7;
 }
 
@@ -186,9 +186,10 @@ ul li{
 }
 
 #logo {
-	text-indent:5%;
-	margin-bottom:20px;
-	font:normal 40px Georgia, serif;
+	text-indent:25%;
+	margin-top:0%
+	margin-bottom:10%;
+	font:normal 60px Georgia, serif;
 	color:brown;
 }
 
