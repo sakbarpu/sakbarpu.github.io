@@ -73,9 +73,8 @@ body {
 	
 }
 #main-content {
-	text-align:left;
-	text-indent:10%;
-	max-width:1000px;
+	max-width:80%;
+	margin-left:25%;
 	margin-bottom:100px;
 
 }
@@ -186,7 +185,7 @@ ul li{
 }
 
 #logo {
-	text-indent:30%;
+	text-indent:20%;
 	margin-bottom:20px;
 	font:normal 40px Georgia, serif;
 	color:brown;
